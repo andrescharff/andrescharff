@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrescharff
-- 👀 I’m interested in a developer carrer
-- 🌱 I’m currently working with frontend HTML/CSS/JavaScript
+- 👀 I’m an Automarion Engineer, interested in a developer carrer
+- 🌱 I’m currently studying / working with frontend HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://www.linkedin.com/in/andrescharff/)
 
